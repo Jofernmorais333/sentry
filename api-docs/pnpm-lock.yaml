@@ -12,8 +12,8 @@ importers:
         specifier: ^3.14.0
         version: 3.14.1
       json-diff:
-        specifier: ^0.7.1
-        version: 0.7.4
+        specifier: ^0.10.0
+        version: 0.10.0
       json-refs:
         specifier: ^3.0.15
         version: 3.0.15
@@ -343,8 +343,8 @@ packages:
     resolution: {integrity: sha512-B7qPcEVE3NVkmSJbaYxvv4cHkVW7DQsZz13pUMrfS8z8Q/BuShN+gcTXrUlPiGqM2/t/EEaI030bpxMqY8gMlw==}
     engines: {node: '>= 10.16.0'}
 
-  json-diff@0.7.4:
-    resolution: {integrity: sha512-FJ2P+ShDbzu9epF+kCKgoSUhPIUW7Ta7A4XlIT0L5LzgaR/z1TBF1mm0XhRGj8RlA3Xm0j+c/FsWOHDtuoYejA==}
+  json-diff@0.10.0:
+    resolution: {integrity: sha512-jOkbyMEdbIhROk4s9qWyD+YZ1jSHX8mHlUqWz71jwnRB/rDhWZBLdhv84j5pu4Ri8fFAnFOZANHKIlExcf2+KQ==}
     hasBin: true
 
   json-pointer@0.6.2:
@@ -911,7 +911,7 @@ snapshots:
 
   jsep@1.4.0: {}
 
-  json-diff@0.7.4:
+  json-diff@0.10.0:
     dependencies:
       cli-color: 2.0.4
       difflib: 0.2.4
